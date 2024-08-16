@@ -1,0 +1,14 @@
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\bin\Debug\net8.0\Throwing Exception.exe
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\bin\Debug\net8.0\Throwing Exception.deps.json
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\bin\Debug\net8.0\Throwing Exception.runtimeconfig.json
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\bin\Debug\net8.0\Throwing Exception.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\bin\Debug\net8.0\Throwing Exception.pdb
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\obj\Debug\net8.0\Throwing Exception.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\obj\Debug\net8.0\Throwing Exception.AssemblyInfoInputs.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\obj\Debug\net8.0\Throwing Exception.AssemblyInfo.cs
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\obj\Debug\net8.0\Throwing Exception.csproj.CoreCompileInputs.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\obj\Debug\net8.0\Throwing Exception.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\obj\Debug\net8.0\refint\Throwing Exception.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\obj\Debug\net8.0\Throwing Exception.pdb
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\obj\Debug\net8.0\Throwing Exception.genruntimeconfig.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Throwing Exception\obj\Debug\net8.0\ref\Throwing Exception.dll

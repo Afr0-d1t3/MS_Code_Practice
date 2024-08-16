@@ -1,0 +1,14 @@
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\bin\Debug\net8.0\comp_Format.exe
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\bin\Debug\net8.0\comp_Format.deps.json
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\bin\Debug\net8.0\comp_Format.runtimeconfig.json
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\bin\Debug\net8.0\comp_Format.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\bin\Debug\net8.0\comp_Format.pdb
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\obj\Debug\net8.0\comp_Format.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\obj\Debug\net8.0\comp_Format.AssemblyInfoInputs.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\obj\Debug\net8.0\comp_Format.AssemblyInfo.cs
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\obj\Debug\net8.0\comp_Format.csproj.CoreCompileInputs.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\obj\Debug\net8.0\comp_Format.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\obj\Debug\net8.0\refint\comp_Format.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\obj\Debug\net8.0\comp_Format.pdb
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\obj\Debug\net8.0\comp_Format.genruntimeconfig.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Composite Formatting\comp_Format\obj\Debug\net8.0\ref\comp_Format.dll

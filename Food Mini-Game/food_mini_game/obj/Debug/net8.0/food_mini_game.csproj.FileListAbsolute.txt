@@ -1,0 +1,14 @@
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\bin\Debug\net8.0\food_mini_game.exe
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\bin\Debug\net8.0\food_mini_game.deps.json
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\bin\Debug\net8.0\food_mini_game.runtimeconfig.json
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\bin\Debug\net8.0\food_mini_game.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\bin\Debug\net8.0\food_mini_game.pdb
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\obj\Debug\net8.0\food_mini_game.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\obj\Debug\net8.0\food_mini_game.AssemblyInfoInputs.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\obj\Debug\net8.0\food_mini_game.AssemblyInfo.cs
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\obj\Debug\net8.0\food_mini_game.csproj.CoreCompileInputs.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\obj\Debug\net8.0\food_mini_game.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\obj\Debug\net8.0\refint\food_mini_game.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\obj\Debug\net8.0\food_mini_game.pdb
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\obj\Debug\net8.0\food_mini_game.genruntimeconfig.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Food Mini-Game\food_mini_game\obj\Debug\net8.0\ref\food_mini_game.dll

@@ -1,0 +1,14 @@
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\bin\Debug\net8.0\classMethods.exe
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\bin\Debug\net8.0\classMethods.deps.json
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\bin\Debug\net8.0\classMethods.runtimeconfig.json
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\bin\Debug\net8.0\classMethods.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\bin\Debug\net8.0\classMethods.pdb
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\obj\Debug\net8.0\classMethods.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\obj\Debug\net8.0\classMethods.AssemblyInfoInputs.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\obj\Debug\net8.0\classMethods.AssemblyInfo.cs
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\obj\Debug\net8.0\classMethods.csproj.CoreCompileInputs.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\obj\Debug\net8.0\classMethods.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\obj\Debug\net8.0\refint\classMethods.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\obj\Debug\net8.0\classMethods.pdb
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\obj\Debug\net8.0\classMethods.genruntimeconfig.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\ClassMethods\classMethods\obj\Debug\net8.0\ref\classMethods.dll
