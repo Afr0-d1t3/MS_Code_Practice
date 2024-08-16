@@ -1,0 +1,14 @@
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\bin\Debug\net8.0\Exception Project 2.exe
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\bin\Debug\net8.0\Exception Project 2.deps.json
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\bin\Debug\net8.0\Exception Project 2.runtimeconfig.json
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\bin\Debug\net8.0\Exception Project 2.dll
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\bin\Debug\net8.0\Exception Project 2.pdb
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\obj\Debug\net8.0\Exception Project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\obj\Debug\net8.0\Exception Project 2.AssemblyInfoInputs.cache
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\obj\Debug\net8.0\Exception Project 2.AssemblyInfo.cs
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\obj\Debug\net8.0\Exception Project 2.csproj.CoreCompileInputs.cache
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\obj\Debug\net8.0\Exception Project 2.dll
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\obj\Debug\net8.0\refint\Exception Project 2.dll
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\obj\Debug\net8.0\Exception Project 2.pdb
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\obj\Debug\net8.0\Exception Project 2.genruntimeconfig.cache
+C:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\Exception Project 2\obj\Debug\net8.0\ref\Exception Project 2.dll

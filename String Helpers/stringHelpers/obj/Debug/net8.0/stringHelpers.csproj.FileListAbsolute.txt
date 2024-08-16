@@ -1,0 +1,14 @@
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\bin\Debug\net8.0\stringHelpers.exe
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\bin\Debug\net8.0\stringHelpers.deps.json
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\bin\Debug\net8.0\stringHelpers.runtimeconfig.json
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\bin\Debug\net8.0\stringHelpers.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\bin\Debug\net8.0\stringHelpers.pdb
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\obj\Debug\net8.0\stringHelpers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\obj\Debug\net8.0\stringHelpers.AssemblyInfoInputs.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\obj\Debug\net8.0\stringHelpers.AssemblyInfo.cs
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\obj\Debug\net8.0\stringHelpers.csproj.CoreCompileInputs.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\obj\Debug\net8.0\stringHelpers.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\obj\Debug\net8.0\refint\stringHelpers.dll
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\obj\Debug\net8.0\stringHelpers.pdb
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\obj\Debug\net8.0\stringHelpers.genruntimeconfig.cache
+c:\Users\E1441590\OneDrive - Emerson\Desktop\Microsoft C# Practice\String Helpers\stringHelpers\obj\Debug\net8.0\ref\stringHelpers.dll
